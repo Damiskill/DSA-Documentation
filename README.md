@@ -14,5 +14,12 @@ GitHub Flavored Markdown (GFM) extends the standard Markdown syntax to include s
 Use triple backticks (```) and specify a language for syntax highlighting.
 
 ### Tools used
-MS Excel for data cleaning (Download here)
-Microsoft SQL server 
+- MS Excel for data cleaning [Download Here](https://www.mswe.com)
+  - For Data Collection
+     - Different ways
+  - For Data cleaning
+    1. blanks
+    2. empty
+- Microsoft SQL server(for querying and analysis)
+- powerBI(for creating a report)
+- MS Power Point (for presentation)
