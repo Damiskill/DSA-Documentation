@@ -23,3 +23,13 @@ Use triple backticks (```) and specify a language for syntax highlighting.
 - Microsoft SQL server(for querying and analysis)
 - powerBI(for creating a report)
 - MS Power Point (for presentation)
+### Exploratory Data Analysis
+- Charts and Diagram
+- Pivot Chart
+- Which products are peak sales
+###  Data Analysis
+~~~   SQL
+Select a,b,c
+from employee where a=50
+
+
