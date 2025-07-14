@@ -2,17 +2,12 @@
 
 This is a documentation of my first works in Digital Skill Africa. I worked on datasets using Microsoft Excel, Microsoft SQL Server and Micosoft Power BI. I did presentation using Microsoft Power Point. The works ranged from collection of datasets, to data cleaning, data manipulation, data visualization and presentation.
 
-## Project Topic: E commerce sales analysis![passport photo](https://github.com/user-attachments/assets/44a45c30-a2c3-4691-a261-bd74e1d0a522)
-![passport photo - Copy](https://github.com/user-attachments/assets/b810944f-aecf-4562-ab05-4c0c5ef409d4)
+# Project Topic: E commerce sales analysis
 
-
-### Project Overview
-
-GitHub Flavored Markdown (GFM) extends the standard Markdown syntax to include some additional features specific to GitHub. This cheat sheet covers key aspects of GFM, making it easier to create READMEs, issues, and other documentation on GitHub.
-
+## Project Overview
+The project is targeted at generating income and revenue from product sales, and make analysis there to to give an informed decisions to all stakeholders in the project.
 ### Data Sources
-Use triple backticks (```) and specify a language for syntax highlighting.
-
+The primary source of data used for this project is an open source that can be downloaded from free data websites like kaggle or any other data repositories.
 ### Tools used
 - MS Excel for data cleaning [Download Here](https://www.microsoft.com/)
   - For Data Collection
@@ -21,9 +16,13 @@ Use triple backticks (```) and specify a language for syntax highlighting.
     1. blanks
     2. empty
 - Microsoft SQL server(for querying and analysis)
-- powerBI(for creating a report)
-- MS Power Point (for presentation)
-### Exploratory Data Analysis
+- powerBI (for creating a report) [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+- MS Power Point (for presentation) [Download Here](https://microsoft.com/)
+## Data Cleaning and Preparation
+   1. Loading and overview of Dataset
+   2. Handling blanks, missing values and wrong datatypes
+   3. Formatting of Data
+## Exploratory Data Analysis
 - Charts and Diagram
 - Pivot Chart
 - Which products are peak sales
