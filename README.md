@@ -1,6 +1,6 @@
 # DSA-Documentation
 
-This is a documentation of my first works in Tech. I worked on datasets using Microsoft Excel, Microsoft SQL Server and Micosoft Power BI. I did presentation using Microsoft Power Point. The works ranged from collection of datasets, to data cleaning, data manipulation, data visualization and presentation.
+This is a documentation of my first works in Digital Skill Africa. I worked on datasets using Microsoft Excel, Microsoft SQL Server and Micosoft Power BI. I did presentation using Microsoft Power Point. The works ranged from collection of datasets, to data cleaning, data manipulation, data visualization and presentation.
 
 ## Project Topic: E commerce sales analysis![passport photo](https://github.com/user-attachments/assets/44a45c30-a2c3-4691-a261-bd74e1d0a522)
 ![passport photo - Copy](https://github.com/user-attachments/assets/b810944f-aecf-4562-ab05-4c0c5ef409d4)
